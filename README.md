@@ -19,15 +19,10 @@
 <a href="https://www.youtube.com/channel/UCEJab8kbGHXpVYLT0EhaV2w?view"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?view=&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCEJab8kbGHXpVYLT0EhaV2w&count_bg=%232B2D29&title_bg=%23DD0000&icon=youtube.svg&icon_color=%23FFFFFF&title=Youtube&edge_flat=false"/></a>
 </p>
 <div align="center">
-<details>
- <summary>🥟 Bantu Saya!</summary>
+<details> 
+ <summary>🥟 Support Saya Biar Saya Semangat Coding:D</summary>
 <a href="https://www.paypal.com/paypalme/fuadrtx"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.paypal.com%2Fpaypalme%2Ffuadrtx&count_bg=%2379C83D&title_bg=%23555555&icon=paypal.svg&icon_color=%232500FF&title=Paypal&edge_flat=false"/></a>
 </details>
-
-Support Saya Biar Saya Semangat Coding:D
-<p align="center"><a href="https://arugaz.herokuapp.com/" target="_blank">My Rest APIs</a>.</p>
-<p align="center"><a href="https://t.me/fuadazkabot" target="_blank">Bot Telegram saya</a>.</p>
-</div>
 
 ## Intro
 
