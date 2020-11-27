@@ -30,7 +30,12 @@
 Project ini menggunakan Google Apps Script 
 
 ### Tutorial 
-Clone this project
+Pengenal
+Berikut Google Script Library -nya :
+
+ID : ```bashMWkhreE4chZ56V_bDwpYUBPvg_do21SJR```
+Fungsi : Library Bot API Telegram Versi 2
+Versi : silakan gunakan versi terbaru (angka yang paling besar)
 
 ```bash
 > git clone https://github.com/ArugaZ/whatsapp-bot.git
