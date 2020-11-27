@@ -42,12 +42,19 @@ Versi : silakan gunakan versi terbaru (angka yang paling besar)
 > cd whatsapp-bot
 ```
 
-Install the dependencies:
+### Keunggulan
+* Lebih Rapi. Penulisan kali ini menggunakan kelas. Ini bertujuan agar lebih rapi dan mudah ditelusuri untuk maintenance dan pengembangan. Dapat juga dijadikan sumber rujukan fungsi-fungsi yang tersedia secara langsung dari source.
 
-```bash
-> npm install 
-> npm install gify-cli -g
-```
+*Method lebih Lengkap. Tersedia sudah 90% lebih fungsi-fungsi method yang ada pada bot API telegram. Tidak perlu build ulang lagi sendiri.
+
+* Lebih banyak tool dan utilitas. Ditambahkan berbagai tools dan utilitas penunjang pembuatan bot yang lebih kompleks. Seperti fungsi random yang sering ditanyakan pada grup. Dan lain-lain.
+
+* Lebih secure. Adanya tools dan utilitas store user properties, menjadikan token bot dapat disembunyikan.
+
+* Mini Database. User properties dapat difungsikan sebagai mini database, yang dapat lebih dikembangkan lagi menjadi penyimpanan session maupun data-data interaksi cepat atau preferensi bot.
+
+* Persingkat ```bashMsg``` Untuk bot interaksi, cukup menggunakan variable msg untuk mempersingkat pengganti ```bashmsg.chat.id```
+
 
 ### Alasan menggunakan GAS
 Latar belakang kenapa musti coba menggunakan Google Script untuk bot hosting telegram:
