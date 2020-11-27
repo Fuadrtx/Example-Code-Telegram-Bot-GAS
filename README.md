@@ -45,7 +45,8 @@ Install the dependencies:
 ```
 
 ### Alasan menggunakan GAS
-Latar belakang kenapa musti coba menggunakan Google Script untuk bot hosting telegram:</p>
+Latar belakang kenapa musti coba menggunakan Google Script untuk bot hosting telegram:
+
 GRATIS, suka dengan gratisan kan!.
 
 Menggunakan bahasa pemrograman javascript seperti halnya nodejs, mudah dicari dan dipelajari dokumentasi, contoh, dan kasus-kasus di search google.
@@ -58,17 +59,13 @@ Tidak susah buat men-deploy. Memiliki rilis versi, dan langsung jalan.
 
 Gak ribet juga dipelajari dan dipraktekkan. Karena terdapat dokumentasi dari Google sendiri yang cukup bagus.
 
-Alasan yang tak kalah penting.. Saat ini lagi hot dibahas di grup @botIndonesia.
-
-Kamu bisa menemukan komunitas yang asyik buat belajar!.
-
 Semoga developer bot Telegram di Indonesia semakin bermunculan dengan kreatifitasnya lagi ya!.
 
 ### Referensi
-FAQ Bot Indonesia (sedang dalam penyusunan)
-Bot Father
-Berbagai Sample Coding Telegram
-Google Apps Script
+* FAQ Bot Indonesia (sedang dalam penyusunan)
+* Bot Father
+* Berbagai Sample Coding Telegram
+* Google Apps Script
 
 ---
 
@@ -80,7 +77,5 @@ Ada banyak bot penipuan, fake, pishing, dan pencurian akun.
 Selalu berhati-hatilah, kawan!
 
 ## Thanks to
-- Tuhan
-- [YogaSakti](https:)
-- [MhankBarBar](https:)
-- [dandyraka](https:rd)
+* Tuhan
+* googlescript
