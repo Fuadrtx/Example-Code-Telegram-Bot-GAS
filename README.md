@@ -12,6 +12,7 @@
 <a href="https://www.codefactor.io/repository/github/arugaz/whatsapp-bot/overview/master"><img title="GRADE" src="https://www.codefactor.io/Content/badges/APlus.svg"></a>
 </p>
 <p align="center">
+<a href="https://sites.google.com/view/fuadrtx/halaman-muka"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsites.google.com%2Fview%2Ffuadrtx%2Fhalaman-muka&count_bg=%23F90000&title_bg=%2300A7FF&icon=google.svg&icon_color=%23FFFFFF&title=Website&edge_flat=false"/></a> 
 <a href="https://t.me/fuadrtx"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ft.me%2Ffuadrtx&count_bg=%23F90000&title_bg=%2300A7FF&icon=telegram.svg&icon_color=%23FFFFFF&title=Instagram&edge_flat=false"/></a>
 <a href="https://www.tiktok.com/@fuadrtx"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.tiktok.com%2F%40fuadrtx&count_bg=%23F90000&title_bg=%23623939&icon=tiktok.svg&icon_color=%23FFFFFF&title=Instagram&edge_flat=false"/></a>
 <a href="https://www.instagram.com/fuadrtx/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.instagram.com%2Ffuadrtx%2F&count_bg=%2300AAF9&title_bg=%23623939&icon=instagram.svg&icon_color=%23FFFFFF&title=Instagram&edge_flat=false"/></a>
