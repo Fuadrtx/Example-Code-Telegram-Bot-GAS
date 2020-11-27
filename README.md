@@ -2,7 +2,7 @@
 
 
 
-[![](https://github.com/Fuadrtx/ChatBOT-Telegram-Google-apps-script/issues)](https://img.shields.io/github/issues/michael-act/JapanToBook?style=flat-square) ![](https://img.shields.io/github/stars/michael-act/JapanToBook?style=flat-square)
+[![](https://img.shields.io/github/issues/michael-act/JapanToBook?style=flat-square)](https://img.shields.io/github/issues/michael-act/JapanToBook?style=flat-square) ![](https://img.shields.io/github/stars/michael-act/JapanToBook?style=flat-square)
 ![](https://img.shields.io/github/forks/michael-act/JapanToBook?style=flat-square) ![](https://img.shields.io/github/license/michael-act/JapanToBook?style=flat-square) [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg?style=flat-square)](https://saythanks.io/to/zaidanline67%40gmail.com) [![HitCount](http://hits.dwyl.com/michael-act/https://github.com/michael-act/JapanToBook.svg)](http://hits.dwyl.com/michael-act/https://github.com/michael-act/JapanToBook)  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![GitHub followers](https://img.shields.io/github/followers/michael-act.svg?style=flat-square&label=Followers&maxAge=2592000)](https://github.com/michael-act?tab=followers)
 
 <p align="center">
