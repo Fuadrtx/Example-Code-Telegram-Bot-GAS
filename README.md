@@ -17,13 +17,6 @@
 <a href="https://www.instagram.com/fuadrtx/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.instagram.com%2Ffuadrtx%2F&count_bg=%2300AAF9&title_bg=%23623939&icon=instagram.svg&icon_color=%23FFFFFF&title=Instagram&edge_flat=false"/></a>
 <a href="https://www.youtube.com/channel/UCEJab8kbGHXpVYLT0EhaV2w?view"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?view=&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCEJab8kbGHXpVYLT0EhaV2w&count_bg=%232B2D29&title_bg=%23DD0000&icon=youtube.svg&icon_color=%23FFFFFF&title=Youtube&edge_flat=false"/></a>
 </p>
-<p align="center">
-<a href="https://github.com/fuadrtx/followers"><img title="Followers" src="https://img.shields.io/github/followers/fuadrtx?color=blue&style=flat-square"></a>
-<a href="https://github.com/arugaz/whatsapp-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/arugaz/whatsapp-bot?color=red&style=flat-square"></a>
-<a href="https://github.com/arugaz/whatsapp-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/arugaz/whatsapp-bot?color=red&style=flat-square"></a>
-<a href="https://github.com/arugaz/whatsapp-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/arugaz/whatsapp-bot?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FArugaZ%2Fwhatsapp-bot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-</p>
 <div align="center">
 <details>
  <summary>🥟 Bantu Saya!</summary>
