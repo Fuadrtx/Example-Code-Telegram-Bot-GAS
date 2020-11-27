@@ -22,7 +22,7 @@
 <details>
  <summary>🥟 Bantu Saya!</summary>
  
- [Trakteer](https://trakteer.id/arugabot)
+<a href="https://www.instagram.com/fuadrtx/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.instagram.com%2Ffuadrtx%2F&count_bg=%2300AAF9&title_bg=%23623939&icon=instagram.svg&icon_color=%23FFFFFF&title=Instagram&edge_flat=false"/></a>
  
 </details>
 
