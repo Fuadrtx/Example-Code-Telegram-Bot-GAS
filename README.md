@@ -10,7 +10,6 @@
 <p align="center">
 <a href="https://www.codefactor.io/repository/github/arugaz/whatsapp-bot/overview/master"><img title="GRADE" src="https://www.codefactor.io/Content/badges/APlus.svg"></a>
 <a href="https://www.codefactor.io/repository/github/arugaz/whatsapp-bot/overview/master"><img title="GRADE" src="https://www.codefactor.io/Content/badges/APlus.svg"></a>
- 
 </p>
 <p align="center">
 <a href="https://github.com/fuadrtx/followers"><img title="Followers" src="https://img.shields.io/github/followers/fuadrtx?color=blue&style=flat-square"></a>
