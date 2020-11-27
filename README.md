@@ -21,9 +21,7 @@
 <div align="center">
 <details>
  <summary>🥟 Bantu Saya!</summary>
- 
-<a href="https://www.instagram.com/fuadrtx/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.instagram.com%2Ffuadrtx%2F&count_bg=%2300AAF9&title_bg=%23623939&icon=instagram.svg&icon_color=%23FFFFFF&title=Instagram&edge_flat=false"/></a>
- 
+<a href="https://www.paypal.com/paypalme/fuadrtx"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.paypal.com%2Fpaypalme%2Ffuadrtx&count_bg=%2379C83D&title_bg=%23555555&icon=paypal.svg&icon_color=%232500FF&title=Paypal&edge_flat=false"/></a>
 </details>
 
 Support Saya Biar Saya Semangat Coding:D
