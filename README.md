@@ -87,3 +87,134 @@ Selalu berhati-hatilah, kawan!
 ## Thanks to
 * Tuhan
 * googlescript
+
+### Dokumentasi Fungsi
+Di list singkat, detailnya bisa dilihat di dokumentasi Bot API nya telegram.
+
+### 01. Telegram
+File ini digenerate secara sistem. Dengan demikian jika ada perubahan bot API dari Telegram, diharapkan bisa dibuat ulang dengan cepat untuk menyesuaikan.
+
+Fungsi Umum:
+* request(method, data, form, blob)
+* buildQuery(array)
+
+Method:
+* getMe()
+* sendMessage(chat_id, text, parse_mode, disable_web_page_preview, disable_notification, reply_to_message_id, reply_markup)
+forwardMessage(chat_id, from_chat_id, disable_notification, message_id)
+* sendPhoto(chat_id, photo, caption, parse_mode, disable_notification, reply_to_message_id, reply_markup)
+* sendAudio(chat_id, audio, caption, parse_mode, duration, performer, title, thumb, disable_notification, reply_to_message_id, reply_markup)
+* sendDocument(chat_id, document, thumb, caption, parse_mode, disable_notification, reply_to_message_id, reply_markup)
+* sendVideo(chat_id, video, duration, width, height, thumb, caption, parse_mode, supports_streaming, disable_notification, reply_to_message_id, reply_markup)
+* sendAnimation(chat_id, animation, duration, width, height, thumb, caption, parse_mode, disable_notification, reply_to_message_id, reply_markup)
+* sendVoice(chat_id, voice, caption, parse_mode, duration, disable_notification, reply_to_message_id, reply_markup)
+* sendVideoNote(chat_id, video_note, duration, length, thumb, disable_notification, reply_to_message_id, reply_markup)
+* sendMediaGroup(chat_id, media, disable_notification, reply_to_message_id)
+* sendLocation(chat_id, latitude, longitude, live_period, disable_notification, reply_to_message_id, reply_markup)
+* editMessageLiveLocation(chat_id, message_id, inline_message_id, latitude, longitude, reply_markup)
+* stopMessageLiveLocation(chat_id, message_id, inline_message_id, reply_markup)
+* sendVenue(chat_id, latitude, longitude, title, address, foursquare_id, foursquare_type, disable_notification, reply_to_message_id, reply_markup)
+* sendContact(chat_id, phone_number, first_name, last_name, vcard, disable_notification, reply_to_message_id, reply_markup)
+* sendPoll(chat_id, question, options, is_anonymous, type, allows_multiple_answers, correct_option_id, explanation, explanation_parse_mode, open_period, close_date, is_closed, disable_notification, reply_to_message_id, reply_markup)
+* sendDice(chat_id, emoji, disable_notification, reply_to_message_id, reply_markup)
+* sendChatAction(chat_id, action)
+* getUserProfilePhotos(user_id, offset, limit)
+* getFile(file_id)
+* kickChatMember(chat_id, user_id, until_date)
+* unbanChatMember(chat_id, user_id)
+* restrictChatMember(chat_id, user_id, permissions, until_date)
+* promoteChatMember(chat_id, user_id, can_change_info, can_post_messages, can_edit_messages, can_delete_messages, can_invite_users, can_restrict_members, can_pin_messages, can_promote_members)
+* setChatAdministratorCustomTitle(chat_id, user_id, custom_title)
+* setChatPermissions(chat_id, permissions)
+* exportChatInviteLink(chat_id)
+* setChatPhoto(chat_id, photo)
+* deleteChatPhoto(chat_id)
+* setChatTitle(chat_id, title)
+* setChatDescription(chat_id, description)
+* pinChatMessage(chat_id, message_id, disable_notification)
+* unpinChatMessage(chat_id)
+* leaveChat(chat_id)
+* getChat(chat_id)
+* getChatAdministrators(chat_id)
+* getChatMembersCount(chat_id)
+* getChatMember(chat_id, user_id)
+setChatStickerSet(chat_id, sticker_set_name)
+deleteChatStickerSet(chat_id)
+answerCallbackQuery(callback_query_id, text, show_alert, url, cache_time)
+setMyCommands(commands)
+getMyCommands()
+02. NewMsg
+Berisi method kompabilitas, tambahan msg untuk interaktif dan method pelengkap lainnya. Tidak semua method dibuat ada msg nya. Saya pilihkan yang sering dipergunakan saja. Default parse mode HTML.
+
+requestForm(method, data)
+requestBlob(method, data)
+kirimPesan(chat_id, text, parse_mode, disable_web_page_preview, reply_to_message_id, reply_markup)
+sendMsg(msg, text, parse_mode, disable_web_page_preview, reply_to_message_id, reply_markup)
+sendMessageKeyboard(chat_id, text, keyboard, parse_mode, disable_web_page_preview, reply_to_message_id)
+sendMsgKeyboard(msg, text, keyboard, parse_mode, disable_web_page_preview, reply_to_message_id)
+sendMessageRemoveKeyboard(chat_id, text, parse_mode, disable_web_page_preview, reply_to_message_id)
+sendMsgRemoveKeyboard(msg, text, parse_mode, disable_web_page_preview, reply_to_message_id)
+sendMessageKeyboardInline(chat_id, text, keyboard, parse_mode, disable_web_page_preview, reply_to_message_id)
+sendMsgKeyboardInline(msg, text, keyboard, parse_mode, disable_web_page_preview, reply_to_message_id)
+sendMessageForceReply(chat_id, text, parse_mode, disable_web_page_preview, reply_to_message_id)
+sendMsgForceReply(msg, text, parse_mode, disable_web_page_preview, reply_to_message_id)
+forwardMsg(msg, from_chat_id, message_id)
+sendMsgPhoto(msg, photo, caption, parse_mode, reply_to_message_id, reply_markup)
+sendMsgAudio(msg, audio, caption, parse_mode, duration, performer, title, thumb, reply_to_message_id, reply_markup)
+sendMsgDocument(msg, document, thumb, caption, parse_mode, reply_to_message_id, reply_markup)
+getUpdates(offset, limit, timeout, allowed_updates)
+setWebhook(url, max_connections)
+deleteWebhook()
+getWebhookInfo()
+editMessageText(chat_id, message_id, inline_message_id, text, parse_mode, disable_web_page_preview, reply_markup)
+editMessageCaption(chat_id, message_id, inline_message_id, caption, parse_mode, reply_markup)
+editMessageMedia(chat_id, message_id, inline_message_id, media, reply_markup)
+editMessageReplyMarkup(chat_id, message_id, inline_message_id, reply_markup)
+stopPoll(chat_id, message_id, reply_markup)
+deleteMessage(chat_id, message_id)
+sendSticker(chat_id, sticker, disable_notification, reply_to_message_id, reply_markup)
+03. Daftar
+Berisi untuk inisasi token.
+
+setToken(token)
+getToken()
+04. Util dan Button
+Utilitas
+Untuk memanggil: tg.util.method()
+
+clearHTML(string)
+clearMarkdown(string)
+formatDate(date, timeZone, format)
+formatString(template, args)
+uuID() : untuk membuat / generate ID unik
+sleep(milidetik)
+timeConverter(UNIX_timestamp, ribuan)
+outputText(text)
+outputJSON(data)
+outputHTML(text)
+outToJSON(data, spasi)
+textBlob(isiText, namaFile) // Contoh: textBlob(‘Hasanudin H Syafaat’, ‘nama’) -> hasil: nama.txt
+random(list)
+random(min, max)
+isArray(object)
+Button
+untuk memanggil: tg.button.method() alias tg.tombol.method()
+
+text(text, data)
+inline(text, data): alias dari button text
+query(text, data)
+url(text, url)
+05. Class User
+Berfungsi untuk mini database user properties.
+
+Inisiasi: var user = new telegram.user()
+
+setValue(kunci, nilai) // contoh: setValue(‘token’, ‘123:xxxx’);
+setValues(data) // contoh {nickname: ‘Bob’, region: ‘US’, language: ‘EN’};
+getValue(kunci) // contoh: getValue(‘token’);
+getValues()
+getKeys()
+delete(kunci)
+deleteAll()
+Lain-lain
+doPost(e) : untuk verisifikasi data POST
