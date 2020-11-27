@@ -67,8 +67,16 @@ after running it you need to scan the qr
 
 ---
 
-## Features
+## Disclaimer
+Jika terjadi apa-apa dengan akun google nya, jangan salahkan penulisnya ya. Meski secara umum sah dipergunakan untuk bot telegram. Pun jika tutorial ini dipergunakan untuk hal illegal, juga bukan tanggung jawab penulis.
 
+Tidak menutup kemungkinan sewaktu-waktu google mengubah aturannya, atau bahkan menutup layanannya untuk dipergunakan bot telegram, seperti halnya kasus hook.io dahulu.
+
+Namun biasanya, bot yang sudah jalan sebelum layanan ditutup masih tetap berjalan. Saat ini GAS masih free dan asyik buat development bot.
+
+Ada banyak bot penipuan, fake, pishing, dan pencurian akun. 
+
+Selalu berhati-hatilah, kawan!
 
 ## Thanks to
 - [WA-Automate](https:)
