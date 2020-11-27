@@ -8,7 +8,7 @@
 <a href="https://github.com/FuadRTX"><img title="Author" src="https://img.shields.io/badge/AUTHOR-FuadRTX-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://www.codefactor.io/repository/github/arugaz/whatsapp-bot/overview/master"><img title="Rating" src="https://www.codefactor.io/repository/github/arugaz/whatsapp-bot/badge/master"></a>
+<a href="https://www.codefactor.io/repository/github/arugaz/whatsapp-bot/overview/master"><img title="GRADE" src="https://www.codefactor.io/Content/badges/APlus.svg"></a>
 </p>
 <p align="center">
 <a href="https://github.com/fuadrtx/followers"><img title="Followers" src="https://img.shields.io/github/followers/fuadrtx?color=blue&style=flat-square"></a>
