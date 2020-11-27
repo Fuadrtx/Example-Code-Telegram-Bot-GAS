@@ -138,83 +138,89 @@ forwardMessage(chat_id, from_chat_id, disable_notification, message_id)
 * getChatAdministrators(chat_id)
 * getChatMembersCount(chat_id)
 * getChatMember(chat_id, user_id)
-setChatStickerSet(chat_id, sticker_set_name)
-deleteChatStickerSet(chat_id)
-answerCallbackQuery(callback_query_id, text, show_alert, url, cache_time)
-setMyCommands(commands)
-getMyCommands()
-02. NewMsg
+* setChatStickerSet(chat_id, sticker_set_name)
+* deleteChatStickerSet(chat_id)
+* answerCallbackQuery(callback_query_id, text, show_alert, url, cache_time)
+* setMyCommands(commands)
+* getMyCommands()
+
+### 02. NewMsg
 Berisi method kompabilitas, tambahan msg untuk interaktif dan method pelengkap lainnya. Tidak semua method dibuat ada msg nya. Saya pilihkan yang sering dipergunakan saja. Default parse mode HTML.
 
-requestForm(method, data)
-requestBlob(method, data)
-kirimPesan(chat_id, text, parse_mode, disable_web_page_preview, reply_to_message_id, reply_markup)
-sendMsg(msg, text, parse_mode, disable_web_page_preview, reply_to_message_id, reply_markup)
-sendMessageKeyboard(chat_id, text, keyboard, parse_mode, disable_web_page_preview, reply_to_message_id)
-sendMsgKeyboard(msg, text, keyboard, parse_mode, disable_web_page_preview, reply_to_message_id)
-sendMessageRemoveKeyboard(chat_id, text, parse_mode, disable_web_page_preview, reply_to_message_id)
-sendMsgRemoveKeyboard(msg, text, parse_mode, disable_web_page_preview, reply_to_message_id)
-sendMessageKeyboardInline(chat_id, text, keyboard, parse_mode, disable_web_page_preview, reply_to_message_id)
-sendMsgKeyboardInline(msg, text, keyboard, parse_mode, disable_web_page_preview, reply_to_message_id)
-sendMessageForceReply(chat_id, text, parse_mode, disable_web_page_preview, reply_to_message_id)
-sendMsgForceReply(msg, text, parse_mode, disable_web_page_preview, reply_to_message_id)
-forwardMsg(msg, from_chat_id, message_id)
-sendMsgPhoto(msg, photo, caption, parse_mode, reply_to_message_id, reply_markup)
-sendMsgAudio(msg, audio, caption, parse_mode, duration, performer, title, thumb, reply_to_message_id, reply_markup)
-sendMsgDocument(msg, document, thumb, caption, parse_mode, reply_to_message_id, reply_markup)
-getUpdates(offset, limit, timeout, allowed_updates)
-setWebhook(url, max_connections)
-deleteWebhook()
-getWebhookInfo()
-editMessageText(chat_id, message_id, inline_message_id, text, parse_mode, disable_web_page_preview, reply_markup)
-editMessageCaption(chat_id, message_id, inline_message_id, caption, parse_mode, reply_markup)
-editMessageMedia(chat_id, message_id, inline_message_id, media, reply_markup)
-editMessageReplyMarkup(chat_id, message_id, inline_message_id, reply_markup)
-stopPoll(chat_id, message_id, reply_markup)
-deleteMessage(chat_id, message_id)
-sendSticker(chat_id, sticker, disable_notification, reply_to_message_id, reply_markup)
-03. Daftar
+* requestForm(method, data)
+* requestBlob(method, data)
+* kirimPesan(chat_id, text, parse_mode, disable_web_page_preview, reply_to_message_id, reply_markup)
+* sendMsg(msg, text, parse_mode, disable_web_page_preview, reply_to_message_id, reply_markup)
+* sendMessageKeyboard(chat_id, text, keyboard, parse_mode, disable_web_page_preview, reply_to_message_id)
+* sendMsgKeyboard(msg, text, keyboard, parse_mode, disable_web_page_preview, reply_to_message_id)
+* sendMessageRemoveKeyboard(chat_id, text, parse_mode, disable_web_page_preview, reply_to_message_id)
+* sendMsgRemoveKeyboard(msg, text, parse_mode, disable_web_page_preview, reply_to_message_id)
+* sendMessageKeyboardInline(chat_id, text, keyboard, parse_mode, disable_web_page_preview, reply_to_message_id)
+* sendMsgKeyboardInline(msg, text, keyboard, parse_mode, disable_web_page_preview, reply_to_message_id)
+* sendMessageForceReply(chat_id, text, parse_mode, disable_web_page_preview, reply_to_message_id)
+* sendMsgForceReply(msg, text, parse_mode, disable_web_page_preview, reply_to_message_id)
+* forwardMsg(msg, from_chat_id, message_id)
+* sendMsgPhoto(msg, photo, caption, parse_mode, reply_to_message_id, reply_markup)
+* sendMsgAudio(msg, audio, caption, parse_mode, duration, performer, title, thumb, reply_to_message_id, reply_markup)
+* sendMsgDocument(msg, document, thumb, caption, parse_mode, reply_to_message_id, reply_markup)
+* getUpdates(offset, limit, timeout, allowed_updates)
+* setWebhook(url, max_connections)
+* deleteWebhook()
+* getWebhookInfo()
+* editMessageText(chat_id, message_id, inline_message_id, text, parse_mode, disable_web_page_preview, reply_markup)
+* editMessageCaption(chat_id, message_id, inline_message_id, caption, parse_mode, reply_markup)
+* editMessageMedia(chat_id, message_id, inline_message_id, media, reply_markup)
+* editMessageReplyMarkup(chat_id, message_id, inline_message_id, reply_markup)
+* stopPoll(chat_id, message_id, reply_markup)
+* deleteMessage(chat_id, message_id)
+* sendSticker(chat_id, sticker, disable_notification, reply_to_message_id, reply_markup)
+
+### 03. Daftar
 Berisi untuk inisasi token.
 
-setToken(token)
-getToken()
-04. Util dan Button
-Utilitas
+* setToken(token)
+* getToken()
+
+### 04. Util dan Button
+## Utilitas
 Untuk memanggil: tg.util.method()
 
-clearHTML(string)
-clearMarkdown(string)
-formatDate(date, timeZone, format)
-formatString(template, args)
-uuID() : untuk membuat / generate ID unik
-sleep(milidetik)
-timeConverter(UNIX_timestamp, ribuan)
-outputText(text)
-outputJSON(data)
-outputHTML(text)
-outToJSON(data, spasi)
-textBlob(isiText, namaFile) // Contoh: textBlob(‘Hasanudin H Syafaat’, ‘nama’) -> hasil: nama.txt
-random(list)
-random(min, max)
-isArray(object)
-Button
+* clearHTML(string)
+* clearMarkdown(string)
+* formatDate(date, timeZone, format)
+* formatString(template, args)
+* uuID() : untuk membuat / generate ID unik
+* sleep(milidetik)
+* timeConverter(UNIX_timestamp, ribuan)
+* outputText(text)
+* outputJSON(data)
+* outputHTML(text)
+* outToJSON(data, spasi)
+* textBlob(isiText, namaFile) // Contoh: textBlob(‘Hasanudin H Syafaat’, ‘nama’) -> hasil: nama.txt
+* random(list)
+* random(min, max)
+* isArray(object)
+
+## Button
 untuk memanggil: tg.button.method() alias tg.tombol.method()
 
-text(text, data)
-inline(text, data): alias dari button text
-query(text, data)
-url(text, url)
-05. Class User
+* text(text, data)
+* inline(text, data): alias dari button text
+* query(text, data)
+* url(text, url)
+
+### 05. Class User
 Berfungsi untuk mini database user properties.
 
-Inisiasi: var user = new telegram.user()
+* Inisiasi: var user = new telegram.user()
 
-setValue(kunci, nilai) // contoh: setValue(‘token’, ‘123:xxxx’);
-setValues(data) // contoh {nickname: ‘Bob’, region: ‘US’, language: ‘EN’};
-getValue(kunci) // contoh: getValue(‘token’);
-getValues()
-getKeys()
-delete(kunci)
-deleteAll()
-Lain-lain
-doPost(e) : untuk verisifikasi data POST
+* setValue(kunci, nilai) // contoh: setValue(‘token’, ‘123:xxxx’);
+* setValues(data) // contoh {nickname: ‘Bob’, region: ‘US’, language: ‘EN’};
+* getValue(kunci) // contoh: getValue(‘token’);
+* getValues()
+* getKeys()
+* delete(kunci)
+* deleteAll()
+
+## Lain-lain
+* doPost(e) : untuk verisifikasi data POST
