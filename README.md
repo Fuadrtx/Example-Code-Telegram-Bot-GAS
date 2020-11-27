@@ -1,53 +1,82 @@
-<h1 align="center">Selamat datang di JapanToBook! 👋</h1>
-
-
-
-[![](https://img.shields.io/github/issues/michael-act/JapanToBook?style=flat-square)](https://img.shields.io/github/issues/michael-act/JapanToBook?style=flat-square) ![](https://img.shields.io/github/stars/michael-act/JapanToBook?style=flat-square)
-![](https://img.shields.io/github/forks/michael-act/JapanToBook?style=flat-square) ![](https://img.shields.io/github/license/michael-act/JapanToBook?style=flat-square) [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg?style=flat-square)](https://saythanks.io/to/zaidanline67%40gmail.com) [![HitCount](http://hits.dwyl.com/michael-act/https://github.com/michael-act/JapanToBook.svg)](http://hits.dwyl.com/michael-act/https://github.com/michael-act/JapanToBook)  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![GitHub followers](https://img.shields.io/github/followers/michael-act.svg?style=flat-square&label=Followers&maxAge=2592000)](https://github.com/michael-act?tab=followers)
-
 <p align="center">
-	
-<img align="center" src="http://ForTheBadge.com/images/badges/built-with-love.svg">
-
+<img src="https://avatars3.githubusercontent.com/u/75134519?s=460&u=d8f3c11deb98106b502ab86c323b70c6897c5ab8&v=4" width="1280" height="1280"/>
 </p>
+<p align="center">
+<a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="https://github.com/ArugaZ"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ARUGAZ-orange.svg?style=for-the-badge&logo=github"></a>
+</p>
+<p align="center">
+<a href="https://www.codefactor.io/repository/github/arugaz/whatsapp-bot/overview/master"><img title="Rating" src="https://www.codefactor.io/repository/github/arugaz/whatsapp-bot/badge/master"></a>
+</p>
+<p align="center">
+<a href="https://github.com/arugaz/followers"><img title="Followers" src="https://img.shields.io/github/followers/arugaz?color=blue&style=flat-square"></a>
+<a href="https://github.com/arugaz/whatsapp-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/arugaz/whatsapp-bot?color=red&style=flat-square"></a>
+<a href="https://github.com/arugaz/whatsapp-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/arugaz/whatsapp-bot?color=red&style=flat-square"></a>
+<a href="https://github.com/arugaz/whatsapp-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/arugaz/whatsapp-bot?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FArugaZ%2Fwhatsapp-bot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+</p>
+<div align="center">
+<details>
+ <summary>🥟 Bantu Saya!</summary>
+ 
+ [Trakteer](https://trakteer.id/arugabot)
+ 
+</details>
 
-### 🤔 Apa itu JapanToBook?
-Bot telegram berbahasa python yang dibuat oleh <a href="https://github.com/michael-act"> Michael A.C Tulenan </a>. **JapanToBook adalah bot untuk memberikan layanan menulis bahasa jepang.**
+Support Saya Biar Saya Semangat Coding:D
+<p align="center"><a href="https://arugaz.herokuapp.com/" target="_blank">My Rest APIs</a>.</p>
+<p align="center"><a href="https://t.me/fuadazkabot" target="_blank">Bot Telegram saya</a>.</p>
+</div>
 
-### 🤖 Bantuan aplikasi
-- Python v3.8.3rc1
+## Intro
 
-### 📆 <a href="http://syauqi.js.org/">Release Date</a>
-**Release date : 30 September 2020**
-> Kalian dapat download / fork / clone. Cukup beri stars di project ini agar memberiku semangat. Terima kasih!
+Project ini menggunakan Google Apps Script 
 
-------------
+### Tutorial 
+Clone this project
 
-## 💻 Install & Penggunaan
+```bash
+> git clone https://github.com/ArugaZ/whatsapp-bot.git
+> cd whatsapp-bot
+```
 
-1. **Download / Clone Repository** ```git clone https://github.com/michael-act/JapanToBook ```
-2. **Install Python3 Module** ```pip3 install -r requirements.txt ```
-3. **Ubahlah string token yang terdapat pada baris 30 di file Telegram Bot.py dengan API Key Bot telegram kalian**
-4. **Jalankan File Telegram Bot.py** ```python3 Telegram\ Bot.py ```
+Install the dependencies:
 
-Silahkan pergi ke <a href="https://t.me/jpnbookBot"> **Telegram Bot**</a> untuk mencobanya, cara penggunaan lebih lengkapnya terdapat pada <a href="https://www.instagram.com/p/CFW1q39jomV/"> **Video Instagram**</a> Do Exploit.
+```bash
+> npm install 
+> npm install gify-cli -g
+```
 
-## 🧑 Author
+### Usage
+Run the Whatsapp bot
 
-👤 <a href="https://www.facebook.com/michael.actt"> **Michael A.C Tulenan**</a>
-- Facebook : <a href="https://www.facebook.com/michael.actt"> Michael Act</a>
-- LinkedIn : <a href="https://www.linkedin.com/in/michael-act/"> Michael A.C Tulenan</a>
+```bash
+> npm start
+```
 
-## 🤝 Contributing
-Contributions, issues and feature requests di persilahkan.
-Jangan ragu untuk memeriksa halaman masalah jika Anda ingin berkontribusi. **Berhubung Project ini saya sudah selesaikan sendiri, namun banyak fitur yang kalian dapat tambahkan silahkan berkontribusi yaa!**
+after running it you need to scan the qr
+
+### Information
+- Change ownerNumber on [this section](https://github.com/ArugaZ/whatsapp-bot/blob/master/settings/setting.json#L2)
+- Change groupLimit on [this section](https://github.com/ArugaZ/whatsapp-bot/blob/master/settings/setting.json#L3)
+- Change memberLimit on [this section](https://github.com/ArugaZ/whatsapp-bot/blob/master/settings/setting.json#L4)
+- Change prefix on [this section](https://github.com/ArugaZ/whatsapp-bot/blob/master/settings/setting.json#L5)
+- Change menu on [this section](https://github.com/ArugaZ/whatsapp-bot/blob/master/lib/menu.js#L32)
+- Add kata kasar on [this section](https://github.com/ArugaZ/whatsapp-bot/blob/master/lib/kataKotor.js#L8)
+- Change all apiKey on [this section](https://github.com/ArugaZ/whatsapp-bot/blob/master/settings/api.json)
+- Get Api NoBackground on [this website](https://www.remove.bg/)
+- Get Api ScreenShot on [this website](https://apiflash.com/)
+- Get Api Simi-simi on [this website](https://workshop.simsimi.com/en/), masih limit api simi-siminya? [cek ini](https://github.com/ArugaZ/whatsapp-bot/issues/38#issuecomment-726981060)
+
+---
+
+## Features
 
 
-## 📝 License
-- Copyright © 2020 Michael A.C Tulenan.
-- **JapanToBook is open-sourced software licensed under the MIT license.**
-
-------------
-
-- **Made with ❤️ by Michael A.C Tulenan .**
-- JapanToBook is open-sourced software licensed under the MIT license.
+## Thanks to
+- [WA-Automate](https:)
+- [YogaSakti](https:)
+- [MhankBarBar](https:)
+- [dandyraka](https:rd)
