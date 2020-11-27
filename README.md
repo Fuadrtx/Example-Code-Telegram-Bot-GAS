@@ -45,7 +45,7 @@ Install the dependencies:
 ```
 
 ### Alasan menggunakan GAS
-Latar belakang kenapa musti coba menggunakan Google Script untuk bot hosting telegram:,
+Latar belakang kenapa musti coba menggunakan Google Script untuk bot hosting telegram:</p>
 GRATIS, suka dengan gratisan kan!.
 
 Menggunakan bahasa pemrograman javascript seperti halnya nodejs, mudah dicari dan dipelajari dokumentasi, contoh, dan kasus-kasus di search google.
