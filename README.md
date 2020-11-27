@@ -37,10 +37,6 @@ ID : ```bashMWkhreE4chZ56V_bDwpYUBPvg_do21SJR```
 Fungsi : Library Bot API Telegram Versi 2
 Versi : silakan gunakan versi terbaru (angka yang paling besar)
 
-```bash
-> git clone https://github.com/ArugaZ/whatsapp-bot.git
-> cd whatsapp-bot
-```
 
 ### Keunggulan
 * Lebih Rapi. Penulisan kali ini menggunakan kelas. Ini bertujuan agar lebih rapi dan mudah ditelusuri untuk maintenance dan pengembangan. Dapat juga dijadikan sumber rujukan fungsi-fungsi yang tersedia secara langsung dari source.
