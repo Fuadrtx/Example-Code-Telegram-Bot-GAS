@@ -32,17 +32,19 @@ Project ini menggunakan Google Apps Script
 
 ### Tutorial 
 * 1 Kalian Tap Tombol di samping ini  <a href="https://script.google.com/home"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fscript.google.com%2Fhome&count_bg=%2351767A&title_bg=%23A81616&icon=google.svg&icon_color=%23FFFFFF&title=Google+Apps+Script&edge_flat=false"/></a>
-* 2. Tap Project Baru > Ubah nama sesuka kalian > Simpan (ctrl+save)
-* 3. Masukan Library di bawah ini > Simber > Pustaka > salin Id dibawah ini paste di add library lalu tap add > Pilih versi Paling tinggi  
+* 2 Tap Project Baru > Ubah nama sesuka kalian > Simpan (ctrl+save)
+* 3 Masukan Library di bawah ini > Simber > Pustaka > salin Id dibawah ini paste di add library lalu tap add > Pilih versi Paling tinggi  
   * ID : ```MWkhreE4chZ56V_bDwpYUBPvg_do21SJR```
   * Fungsi : Library Bot API Telegram Versi 2
   * Versi : silakan gunakan versi terbaru (angka yang paling besar)
-
+* 4 Buka File Code.js di atas > Salin semua codenya > Kembali ke google apps script > Pastikan di dalam folder code.gs kosong Jika sudah kosong paste disitu
+* 5 Tap menu file pojok kiri atas > baru > script > isi dengan nama Proses > hapus isi Proses.gs > Buka File Proses.gs di atas > Salin semuanya Paste Di GOOLE APPS SCRIPT Taruh di proses.gs
+* 6. 
 
 ### Keunggulan
 * Lebih Rapi. Penulisan kali ini menggunakan kelas. Ini bertujuan agar lebih rapi dan mudah ditelusuri untuk maintenance dan pengembangan. Dapat juga dijadikan sumber rujukan fungsi-fungsi yang tersedia secara langsung dari source.
 
-*Method lebih Lengkap. Tersedia sudah 90% lebih fungsi-fungsi method yang ada pada bot API telegram. Tidak perlu build ulang lagi sendiri.
+* Method lebih Lengkap. Tersedia sudah 90% lebih fungsi-fungsi method yang ada pada bot API telegram. Tidak perlu build ulang lagi sendiri.
 
 * Lebih banyak tool dan utilitas. Ditambahkan berbagai tools dan utilitas penunjang pembuatan bot yang lebih kompleks. Seperti fungsi random yang sering ditanyakan pada grup. Dan lain-lain.
 
