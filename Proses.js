@@ -26,14 +26,15 @@ var chatt       = msg.chat.type;
 var group       = msg.chat.title;
 var nama        = msg.from.first_name;
 var username    = msg.from.username;
-var usernamebot = 'ISI_DENGAN_USERNAME_BOTMU';
-
+var usernamebot = '@Fuadrtxbot';
+var ownerbot    = '@Fuadrtx';
+    
 //-------\\ Handle Pesan Teks ------- Start bot jawab Fuad 『RTX』•ᴮᴬᴰʙᴏʏツ //-------\\
 var pola = /(\/start)/i;
   if (pola.exec(msg.text)) {     
-varpesan= {
+var pesan= {
     'chat_id': msg.chat.id,
-    "text": "Hai "+nama+"  , Perkenalkan nama saya @"+usernamebot+"\nAda Yang Bisa saya bantu??",
+    "text": "Hai "+nama+"  , Perkenalkan nama saya "+usernamebot+"\nDibuat oleh "+ownerbot+"\nAda Yang Bisa saya bantu??",
     'parse_mode' : "HTML", }
 tg.request('sendMessage', pesan);}  
 
@@ -42,7 +43,7 @@ tg.request('sendMessage', pesan);}
 //-------\\ Jika User hallo bot jawab Fuad 『RTX』•ᴮᴬᴰʙᴏʏツ //-------\\
 var pola = /(\hallo)/i;
   if (pola.exec(msg.text)) {     
-varpesan= {
+var pesan= {
     'chat_id': msg.chat.id,
     "text": "Eh Manusia  Apa Kabar Kamu",
     'parse_mode' : "HTML", }
