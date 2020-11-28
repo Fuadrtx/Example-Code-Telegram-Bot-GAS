@@ -31,12 +31,12 @@ buy me a coffe :P
 Project ini menggunakan Google Apps Script 
 
 ### Tutorial 
-Pengenal
-Berikut Google Script Library -nya :
-
-ID : ```MWkhreE4chZ56V_bDwpYUBPvg_do21SJR```
--Fungsi : Library Bot API Telegram Versi 2
--Versi : silakan gunakan versi terbaru (angka yang paling besar)
+* 1 Kalian Tap Tombol di samping ini  <a href="https://script.google.com/home"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fscript.google.com%2Fhome&count_bg=%2351767A&title_bg=%23A81616&icon=google.svg&icon_color=%23FFFFFF&title=Google+Apps+Script&edge_flat=false"/></a>
+* 2. Tap Project Baru > Ubah nama sesuka kalian > Simpan (ctrl+save)
+* 3. Masukan Library di bawah ini > Simber > Pustaka > salin Id dibawah ini paste di add library lalu tap add > Pilih versi Paling tinggi  
+  * ID : ```MWkhreE4chZ56V_bDwpYUBPvg_do21SJR```
+  * Fungsi : Library Bot API Telegram Versi 2
+  * Versi : silakan gunakan versi terbaru (angka yang paling besar)
 
 
 ### Keunggulan
