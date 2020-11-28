@@ -1,5 +1,4 @@
- 
-/*
+ /*
 Project Name  : Example-Code-Telegram-Bot-GAS
 Engine        : Google App Script
 Language Code : JavaScript
