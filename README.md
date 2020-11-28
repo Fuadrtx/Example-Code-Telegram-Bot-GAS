@@ -12,6 +12,7 @@
 <a href="https://t.me/fuadrtx"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ft.me%2Ffuadrtx&count_bg=%23F90000&title_bg=%2300A7FF&icon=telegram.svg&icon_color=%23FFFFFF&title=Instagram&edge_flat=false"/></a>
 <a href="https://www.tiktok.com/@fuadrtx"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.tiktok.com%2F%40fuadrtx&count_bg=%23F90000&title_bg=%23623939&icon=tiktok.svg&icon_color=%23FFFFFF&title=Instagram&edge_flat=false"/></a>
 <a href="https://www.instagram.com/fuadrtx/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.instagram.com%2Ffuadrtx%2F&count_bg=%2300AAF9&title_bg=%23623939&icon=instagram.svg&icon_color=%23FFFFFF&title=Instagram&edge_flat=false"/></a>
+ <a href="https://twitter.com/fuadrtx/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ftwitter.com%2Ffuadrtx%2F&count_bg=%23FF0000&title_bg=%23000000&icon=twitter.svg&icon_color=%2300EFFF&title=hits&edge_flat=false"/></a>
 <a href="https://www.youtube.com/channel/UCEJab8kbGHXpVYLT0EhaV2w?view"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?view=&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCEJab8kbGHXpVYLT0EhaV2w&count_bg=%232B2D29&title_bg=%23DD0000&icon=youtube.svg&icon_color=%23FFFFFF&title=Youtube&edge_flat=false"/></a>
 </p>
 <div align="center">
