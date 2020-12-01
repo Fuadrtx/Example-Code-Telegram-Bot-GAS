@@ -96,3 +96,15 @@ Selalu berhati-hatilah, kawan!
 <a href="https://github.com/FuadRTX"><img title="Author" src="https://img.shields.io/badge/AUTHOR-FuadRTX-orange.svg?style=for-the-badge&logo=github"></a>
 <a href="https://github.com/banghasan"><img title="Library" src="https://img.shields.io/badge/Library-Bang Hasan-orange.svg?style=for-the-badge&logo=github"></a>
 <a href="https://github.com/Aghisna12"><img title="Source Script" src="https://img.shields.io/badge/Source Script-Aghisna-orange.svg?style=for-the-badge&logo=github"></a>
+
+**Github Stats:**
+
+<p align="center">
+  
+
+  <img src="https://github-readme-stats.vercel.app/api?username=fuadrtx&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuadrtx&count_private=true&theme=dracula">
+
+</p>
+
+ ---
